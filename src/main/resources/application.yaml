@@ -1,0 +1,9 @@
+server:
+  port: 9090
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://theshop.rmeawrn.mongodb.net/?retryWrites=true&w=majority
+      username:
+      database: sales_order_db
